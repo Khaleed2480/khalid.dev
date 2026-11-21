@@ -1,0 +1,38 @@
+:root {
+  /* Warm Espresso-Obsidian Surfaces */
+  --bg-canvas: #0b0a0d;
+  --bg-elevated: #131118;
+  --bg-card: rgba(22, 19, 27, 0.74);
+  --bg-glass: rgba(18, 16, 22, 0.8);
+
+  /* Crisp Warm White Text */
+  --text-primary: #f6f4ef;
+  --text-secondary: #a8a29e;
+  --text-muted: #706a66;
+
+  /* Champagne Gold -> Warm Copper Linear Gradient */
+  --accent-solid: #f3d092;
+  --accent-secondary: #e07a5f;
+  --accent-gradient: linear-gradient(135deg, #f3d092 0%, #e07a5f 100%);
+  --accent-ink: #120d0a;
+  --accent-soft: rgba(243, 208, 146, 0.12);
+
+  /* Borders */
+  --border-subtle: rgba(246, 244, 239, 0.08);
+  --border-hover: rgba(243, 208, 146, 0.35);
+
+  /* Fonts */
+  --font-display: 'Syne', sans-serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Spacing & Radii */
+  --container-max: 1260px;
+  --gutter: clamp(1.25rem, 4vw, 2.75rem);
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 24px;
+  --radius-pill: 999px;
+
+  --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
