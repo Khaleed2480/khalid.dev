@@ -21,7 +21,7 @@ export const SITE_CONFIG = {
       url: 'https://wa.me/2349158722146?text=Hi%20Khalid%2C%20I%20visited%20khalid.dev%20and%20would%20love%20to%20connect.',
     },
     { label: 'LinkedIn', type: 'linkedin', url: 'https://linkedin.com' },
-    { label: 'GitHub', type: 'github', url: 'https://github.com' },
+    { label: 'GitHub', type: 'github', url: 'https://github.com/khaleed2480' },
   ],
 };
 
